@@ -1,0 +1,67 @@
+.class1
+{
+  align-self: center;
+  background-color:rgb(199, 172, 203);
+  height: 250px;
+  
+  
+}
+#h1
+{
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-style:italic;
+  
+  color:green;
+  font:caption;
+  padding-left:295px;
+
+}
+#inputtemp
+{
+ 
+  margin-left:285px;
+  border:none;
+  border-radius:5px;
+  
+}
+#inputtemp:hover{
+  background-color:rgba(250, 250, 4, 0.999)
+}
+#tounit:hover
+{
+  background-color:rgba(250,250,4,0.999);
+}
+#fromunit:hover
+{
+  background-color:rgba(250,250,4,0.999);
+}
+#div1
+{
+margin-left:130px;
+margin-right:130px;
+padding-top:30px;
+align-self:center;
+}
+fieldset{
+ border:none;
+ border-radius:30px
+ color: rgb(155, 231, 231);
+ margin-left:110px
+}
+legend{
+margin-left:40px; 
+}
+button{
+margin-left:335px;
+color:rgb(7, 255, 255);
+background-color:rgba(29, 8, 18, 0.662);
+border:none;
+border-radius:15px;
+}
+button:hover{
+background-color:white;
+text-shadow:18px;
+font:bold;
+border:none;
+color:black;
+}
